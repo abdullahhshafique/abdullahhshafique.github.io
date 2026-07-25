@@ -60,7 +60,7 @@
 
   /* Try to fetch real commits and prepend to cycle */
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', 'https://api.github.com/users/aadi-abdullah/events?per_page=30');
+  xhr.open('GET', 'https://api.github.com/users/abdullahhshafique/events?per_page=30');
   xhr.setRequestHeader('Accept', 'application/vnd.github.v3+json');
   xhr.onreadystatechange = function () {
     if (xhr.readyState !== 4 || xhr.status < 200 || xhr.status >= 300) return;
