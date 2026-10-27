@@ -39,9 +39,7 @@ This is my personal portfolio — a production-aware showcase of AI systems I've
 
 | Metric | Value |
 |--------|-------|
-| Retrieval Recall@5 | 91% (220 test queries) |
 | P95 API Latency | 210ms |
-| Agent Task Completion | 89% (100 test queries) |
 | Hallucination Rate | 7% (grounded check) |
 | Documents Indexed | 8k (largest RAG corpus) |
 
