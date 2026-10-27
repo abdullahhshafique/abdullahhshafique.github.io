@@ -7,9 +7,9 @@
 **Built by [Abdullah Shafique](https://www.linkedin.com/in/aadi-abdullah)**  
 AI Engineer · LangChain · Groq · FastAPI · Python
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00ff88?style=for-the-badge&logo=github)](https://aadi-abdullah.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00ff88?style=for-the-badge&logo=github)](https://abdullahhshafique.github.io)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-aadi--abdullah-181717?logo=github)](https://github.com/aadi-abdullah)
+[![GitHub](https://img.shields.io/badge/GitHub-aadi--abdullah-181717?logo=github)](https://github.com/abdullahhshafique)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aadi--abdullah-0A66C2?logo=linkedin)](https://www.linkedin.com/in/aadi-abdullah)
 
@@ -29,9 +29,9 @@ This is my personal portfolio — a production-aware showcase of AI systems I've
 |---|---------|-----------|-------|
 | 01 | AI Research Agent | [aadi-research-agent.streamlit.app](https://aadi-research-agent.streamlit.app) | LangChain · Groq · Tavily · Streamlit |
 | 02 | PDF Knowledge Assistant | [pdf-knowledge-assistant.vercel.app](https://pdf-knowledge-assistant.vercel.app) | FastAPI · React · FAISS · Groq |
-| 03 | House Price Prediction API | [GitHub](https://github.com/aadi-abdullah/house-price-prediction-api) | FastAPI · XGBoost · Docker |
-| 04 | LLM Evaluation Framework | [GitHub](https://github.com/aadi-abdullah/llm-eval-framework) | ROUGE · BERTScore · GitHub Actions |
-| 05 | Agent Monitoring Dashboard | [GitHub](https://github.com/aadi-abdullah/agent-monitor) | FastAPI · HTMX · SQLite |
+| 03 | House Price Prediction API | [GitHub](https://github.com/abdullahhshafique/house-price-prediction-api) | FastAPI · XGBoost · Docker |
+| 04 | LLM Evaluation Framework | [GitHub](https://github.com/abdullahhshafique/llm-eval-framework) | ROUGE · BERTScore · GitHub Actions |
+| 05 | Agent Monitoring Dashboard | [GitHub](https://github.com/abdullahhshafique/agent-monitor) | FastAPI · HTMX · SQLite |
 
 ---
 
@@ -147,7 +147,7 @@ npx serve .
 cd C:\Users\ABDULLAH\Downloads\aadi-abdullah.github.io
 
 git init
-git remote add origin https://github.com/aadi-abdullah/aadi-abdullah.github.io.git
+git remote add origin https://github.com/abdullahhshafique/abdullahhshafique.github.io.git
 git add .
 git commit -m "feat: portfolio — Three.js WebGL shaders, Lenis, modular JS"
 git push -u origin main
@@ -155,7 +155,7 @@ git push -u origin main
 
 Go to **GitHub → Repo → Settings → Pages → Source: main / root**
 
-Live at **https://aadi-abdullah.github.io** within ~60 seconds. Every push to `main` auto-deploys.
+Live at **https://abdullahhshafique.github.io** within ~60 seconds. Every push to `main` auto-deploys.
 
 ---
 
@@ -200,7 +200,7 @@ I'm an AI Engineer with a background in design — I spent 6 years as a professi
 
 **Currently open to AI engineering internships and junior roles.**
 
-→ [LinkedIn](https://www.linkedin.com/in/aadi-abdullah) · [GitHub](https://github.com/aadi-abdullah) · abdullahshafique2019@gmail.com
+→ [LinkedIn](https://www.linkedin.com/in/aadi-abdullah) · [GitHub](https://github.com/abdullahhshafique) · abdullahhshafique@outlook.com
 
 ---
 
